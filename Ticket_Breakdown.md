@@ -45,6 +45,7 @@ Informed guesses (Assumptions)
     - If the custom id is already in use: “Custom Id already in use.”
     - If the custom id is bigger than 16 chars: “Custom Id cannot exceed 16 characters long.”
     - If something else happened: “Something wrong happen, please try later.”
+- Update report to display the custom id or the database id.
 
 **Estimate:** 2 working days
 
